@@ -8,25 +8,25 @@ const FeatureList = [
     Svg: require('../../static/img/pair_programming.svg').default,
     description: (
       <>
-        Pair programming and team collaboration.
+        Pair programming and collaboration.
       </>
     ),
   },
   {
-    title: 'Data Visualization',
-    Svg: require('../../static/img/dataviz.svg').default,
+    title: 'Code Quality',
+    Svg: require('../../static/img/test-code.svg').default,
     description: (
       <>
-        Data visualization.
+        Writing tested and well-documented code
       </>
     ),
   },
   {
-    title: 'GSheets, Python, Databases',
-    Svg: require('../../static/img/sheets.svg').default,
+    title: 'Modularity',
+    Svg: require('../../static/img/modularity.svg').default,
     description: (
       <>
-        Data tools
+        Modular and Object-Oriented Design
       </>
     ),
   },

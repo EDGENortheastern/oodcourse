@@ -2,39 +2,32 @@
 sidebar_position: 1
 ---
 
-# External resources
+# Introduction to the course
 
-## [Data Camp](https://www.datacamp.com/)
+This course is suitable for graduate students of disciplines other than computing who are keen to acquire new (or deepen existing) knowledge of programming.
 
-You may try to use external resources to supplement this course. You do not have to. However, we would like to recommend some of the most helpful, just in case.
+## Welcome
 
-For Data Analytics, [Data Camp](https://www.datacamp.com/) is probably the best. As a university student you can get free access to the **entire** [Data Camp](https://www.datacamp.com/) curriculum, which otherwise can be pretty expensive. Make sure to get used to logging in with your university credentials to use [Data Camp](https://www.datacamp.com/) for free. To start, give your NCH credential to your course leader, and they will add you to a [Data Camp](https://www.datacamp.com/) classroom.
+Welcome to Object-Oriented design. The course will start with exploring some of the basic coding concepts and an introduction to Git and GitHub, the version control and collaboration tools.
 
-- Recommended [Data Camp](https://www.datacamp.com/) Career Track:
+We will use Python as our main programming language and we are hoping to teach some of the  advanced Python frameworks such as Django at the end of the course. We hope you enjoy the journey.
 
-  - [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
+## Course leads
 
-- Other recommended [Data Camp](https://www.datacamp.com/) courses:
+| Name |                                                       Github                                                                                                      |                                   Linkedin                                    |
+| :------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|   Katia |   [![GitHub logo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/missKatiaPunter)   |   [![Linkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/katia-punter-6313ba177/)  |                                                                              |
+| Alex | [![GitHub logo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/alexcasper)  | [![Linkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/alexcaspercline/)  |
 
-  - [Introduction to Git](https://app.datacamp.com/learn/courses/introduction-to-git)
-  - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
-  - [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-  - [Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
-  - [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)
+## GitHub welcome
 
-## [Free Code Camp](https://www.freecodecamp.org)
+One of the first technologies we will learn is called GitHub.
 
-[Free Code Camp](https://www.freecodecamp.org) is awesome. However, its JavaScript pathways are better. Conversely, if you want to explore the D3 library, the ultimate data visualisation library for the web, you can look at the [Free Code Camp](https://www.freecodecamp.org) certificate in Data Visualisation.
+GitHub is the place coders store code and collaborate. Follow the link below, read more about GitHub in a document called README and raise your first issue.
 
-You can check out the following [Free Code Camp](https://www.freecodecamp.org) resources:
+[<img
+    src="/img/icons/github-logo.svg"
+    alt="Deepnote link"
+/>](https://github.com/EDGENortheastern/welcome-feb-22/blob/main/README.md)
 
-- [Free Code Camp Data Analytics curriculum](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-- An e-book [Learning Python: From Zero to Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
-
-## [Learn Python](https://www.learnpython.dev/)
-
-This website accompanies a Python Course on Frontend Masters, a subscription service for web developers. You need to subscribe and pay to watch videos, but you can look through the site. It has some useful "insider info," as a professional Python developer produced it.
-
-## Conclusion
-
-We will teach you a lot, but using some self-study resources is always helpful.
+[Link to GitHub](https://github.com/EDGENortheastern/welcome-feb-22/blob/main/README.md)

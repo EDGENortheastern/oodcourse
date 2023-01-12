@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bootcamp book',
-  tagline: 'Accelerating careers in Data Science',
-  url: 'https://flamboyant-morse-253c65.netlify.app/',
+  title: 'Object Oriented Design',
+  tagline: 'Course resources',
+  url: 'https://spontaneous-lokum-0b4871.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Northeastern University', // Usually your GitHub org/user name.
-  projectName: 'Bootcamp Curriculum', // Usually your repo name.
+  projectName: 'Object Oriented Design Curriculum', // Usually your repo name.
 
   presets: [
     [
@@ -36,7 +36,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OO design',
+        title: 'Object Oriented Design',
         logo: {
           alt: 'Northeastern logo',
           src: '/img/NU_logo_1let.svg',
