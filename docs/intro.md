@@ -2,46 +2,39 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# External resources
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## [Data Camp](https://www.datacamp.com/)
 
-## Getting Started
+You may try to use external resources to supplement this course. You do not have to. However, we would like to recommend some of the most helpful, just in case.
 
-Get started by **creating a new site**.
+For Data Analytics, [Data Camp](https://www.datacamp.com/) is probably the best. As a university student you can get free access to the **entire** [Data Camp](https://www.datacamp.com/) curriculum, which otherwise can be pretty expensive. Make sure to get used to logging in with your university credentials to use [Data Camp](https://www.datacamp.com/) for free. To start, give your NCH credential to your course leader, and they will add you to a [Data Camp](https://www.datacamp.com/) classroom.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Recommended [Data Camp](https://www.datacamp.com/) Career Track:
 
-### What you'll need
+  - [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Other recommended [Data Camp](https://www.datacamp.com/) courses:
 
-## Generate a new site
+  - [Introduction to Git](https://app.datacamp.com/learn/courses/introduction-to-git)
+  - [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
+  - [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+  - [Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
+  - [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)
 
-Generate a new Docusaurus site using the **classic template**.
+## [Free Code Camp](https://www.freecodecamp.org)
 
-The classic template will automatically be added to your project after you run the command:
+[Free Code Camp](https://www.freecodecamp.org) is awesome. However, its JavaScript pathways are better. Conversely, if you want to explore the D3 library, the ultimate data visualisation library for the web, you can look at the [Free Code Camp](https://www.freecodecamp.org) certificate in Data Visualisation.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+You can check out the following [Free Code Camp](https://www.freecodecamp.org) resources:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- [Free Code Camp Data Analytics curriculum](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- An e-book [Learning Python: From Zero to Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## [Learn Python](https://www.learnpython.dev/)
 
-## Start your site
+This website accompanies a Python Course on Frontend Masters, a subscription service for web developers. You need to subscribe and pay to watch videos, but you can look through the site. It has some useful "insider info," as a professional Python developer produced it.
 
-Run the development server:
+## Conclusion
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We will teach you a lot, but using some self-study resources is always helpful.
