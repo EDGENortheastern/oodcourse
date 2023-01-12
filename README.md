@@ -1,5 +1,7 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed185a99-2d7f-4eb1-92f8-cb7a687626b8/deploy-status)](https://app.netlify.com/sites/spontaneous-lokum-0b4871/deploys)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation

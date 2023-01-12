@@ -23,11 +23,11 @@ We will use Python as our main programming language and we are hoping to teach s
 
 One of the first technologies we will learn is called GitHub.
 
-GitHub is the place coders store code and collaborate. Follow the link below, read more about GitHub in a document called README and raise your first issue.
+GitHub is the place where coders store code and collaborate. Follow the link below, create a GitHub account and raise your first issue.
 
 [<img
     src="/img/icons/github-logo.svg"
-    alt="Deepnote link"
-/>](https://github.com/EDGENortheastern/welcome-feb-22/blob/main/README.md)
+    alt="GitHub Welcome link"
+/>](https://github.com/EDGENortheastern/ood-python-welcome-01-2023)
 
-[Link to GitHub](https://github.com/EDGENortheastern/welcome-feb-22/blob/main/README.md)
+[Link to GitHub](https://github.com/EDGENortheastern/ood-python-welcome-01-2023)
